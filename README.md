@@ -1,18 +1,19 @@
 # Hello-World
 
-# Table of contents
+## Table of contents
 1. project Title
 2. Project Description
 3. How to run Program
 4. Files Used 
 5. Aditional Documentation 
 6. Versioning 
-# Project Title
+## Project Title
 **Hello World**
-# Project Description 
+## Project Description 
 *Practice using Github by creating this sample repository. I am doing this for my Professional prep class.*
-# How to run program 
-# Files Used 
-There were ==no files== used.
-# Additional Documentation 
-# Versioning 
+## How to run program 
+I need to highlight these ==very important words==.
+## Files Used 
+~~There were no files used.~~
+## Additional Documentation 
+## Versioning 
