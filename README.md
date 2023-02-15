@@ -12,7 +12,6 @@
 ## Project Description 
 *Practice using Github by creating this sample repository. I am doing this for my Professional prep class.*
 ## How to run program 
-I need to highlight these ==very important words==.
 ## Files Used 
 ~~There were no files used.~~
 ## Additional Documentation 
